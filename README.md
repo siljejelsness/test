@@ -1,4 +1,4 @@
 # test
 just for testing
 
-Her e ren liten kommentar
+Her er en liten kommentar
